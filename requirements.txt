@@ -1,0 +1,19 @@
+numpy
+matplotlib
+matplotlib-label-lines
+scipy
+tqdm
+scikit-learn
+schedulefree
+
+pythae
+
+torch
+#torchvision torchaudio
+
+# Install FrEIA
+git+https://github.com/vislearn/FrEIA.git
+# cd FrEIA
+# pip install -r requirements.txt
+# python setup.py develop
+# cd ..
