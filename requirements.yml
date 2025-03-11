@@ -1,9 +1,0 @@
-#write a requirements file which installs pip, conda, torch and installs requirements.txt
-- name: pip
-  version: 21.0.1
-- name: conda
-  version: 4.9.2
-- name: pytorch
-  version: 1.7.1
-- name: requirements.txt
-  src: requirements.txt
