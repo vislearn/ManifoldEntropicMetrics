@@ -3,6 +3,7 @@ Code repository for the paper "Analyzing Generative Models by Manifold Entropic 
 
 ## Installation
 Create new conda environment with the following commands:
+    
     conda create python=3.12 -c pytorch -n manentmet
     conda activate manentmet
     pip install -r requirements.txt
