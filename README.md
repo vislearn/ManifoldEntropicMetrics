@@ -1,6 +1,8 @@
 # ManifoldEntropicMetrics
 Code repository for the paper "Analyzing Generative Models by Manifold Entropic Metrics" https://arxiv.org/abs/2410.19426
 
+See conference [poster](Poster_v3.pdf).
+
 ## Installation
 Create new conda environment with the following commands:
     
